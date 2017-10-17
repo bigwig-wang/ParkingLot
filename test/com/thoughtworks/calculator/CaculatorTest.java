@@ -75,7 +75,7 @@ public class CaculatorTest {
 
         int result = calculator.add("1n2,3");
 
-        assertEquals(6,result);
+        assertEquals(7,result);
     }
 
     //Support different delimiters
