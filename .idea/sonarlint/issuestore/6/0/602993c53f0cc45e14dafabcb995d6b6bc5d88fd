@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ï¥¯ö8ÍùÉÀò+
+vsquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "sum".(šÂßp8åŒºÀò+
+esquid:UselessImportCheck"<Remove this unused import 'com.sun.deploy.util.StringUtils'.(Ï¥¯ö8ÍùÉÀò+
+asquid:UselessImportCheck"8Remove this unused import 'java.util.function.Function'.(»³Í8®ÄÂò+
+Gsquid:S1612",Replace this lambda with a method reference.(šÂßp8§íıÀò+
